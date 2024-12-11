@@ -25,4 +25,10 @@ There are also repositories for my hacks, including:
 * [Elite Universe Editor](https://github.com/markmoxon/elite-universe-editor) on the BBC Micro and Commodore 64
 * [Elite over Econet](https://github.com/markmoxon/elite-over-econet)
 
+And if you're interested in how I produce my source code repositories and the accompanying sites, these repositories contain all the details:
+
+* [Scripts for generating bbcelite.com](https://github.com/markmoxon/bbcelite-scripts)
+* [Static content for bbcelite.com](https://github.com/markmoxon/bbcelite-websites)
+* [Elite source code library](https://github.com/markmoxon/elite-source-code-library)
+
 For more information, please see my <a href="https://www.bbcelite.com/">software archaeology website</a>.
