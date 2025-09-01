@@ -20,10 +20,22 @@ You can find the following fully documented and buildable disassemblies here on 
 
 There are also repositories for my hacks, including:
 
-* [Flicker-free Elite on the Commodore 64 and Plus/4](https://github.com/markmoxon/c64-elite-flicker-free)
+* The Elite Compendium:
+  * [Elite Compendium (BBC Master)](https://github.com/markmoxon/elite-compendium-bbc-master)
+  * [Elite Compendium (BBC Micro)](https://github.com/markmoxon/elite-compendium-bbc-micro)
+  * [Elite Compendium (BBC Micro B+)](https://github.com/markmoxon/elite-compendium-bbc-micro-b-plus)
+  * [Elite Compendium (Acorn Electron)](https://github.com/markmoxon/elite-compendium-acorn-electron)
+* Elite Universe Editor:
+  * [Elite Universe Editor](https://github.com/markmoxon/elite-universe-editor) on the BBC Micro and Commodore 64
+  * [Elite Universe Editor Library](https://github.com/markmoxon/elite-universe-editor-library)
+  * [BBC Master Elite Universe Editor](https://github.com/markmoxon/elite-universe-editor-bbc-master)
+  * [6502 Second Processor Elite Universe Editor](https://github.com/markmoxon/elite-universe-editor-6502-second-processor)
+  * [Commodore 64 Elite Universe Editor](https://github.com/markmoxon/elite-universe-editor-commodore-64)
+* Elite over Econet:
+  * [Elite over Econet](https://github.com/markmoxon/elite-over-econet)
+  * [!EliteNet](https://github.com/markmoxon/elite-over-econet-acorn-archimedes)
 * [Teletext Elite](https://github.com/markmoxon/teletext-elite) on the BBC Micro
-* [Elite Universe Editor](https://github.com/markmoxon/elite-universe-editor) on the BBC Micro and Commodore 64
-* [Elite over Econet](https://github.com/markmoxon/elite-over-econet)
+* [Flicker-free Elite on the Commodore 64 and Plus/4](https://github.com/markmoxon/c64-elite-flicker-free)
 
 And if you're interested in how I produce my source code repositories and the accompanying sites, these repositories contain all the details:
 
