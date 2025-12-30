@@ -34,6 +34,7 @@ There are also repositories for my hacks, including:
 * Elite over Econet:
   * [Elite over Econet](https://github.com/markmoxon/elite-over-econet)
   * [!EliteNet](https://github.com/markmoxon/elite-over-econet-acorn-archimedes)
+  * [Elite over Econet fileserver menu](https://github.com/markmoxon/elite-over-econet-fileserver-menu)
 * [Teletext Elite](https://github.com/markmoxon/teletext-elite) on the BBC Micro
 * [Flicker-free Elite on the Commodore 64 and Plus/4](https://github.com/markmoxon/c64-elite-flicker-free)
 
