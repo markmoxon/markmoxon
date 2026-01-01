@@ -16,6 +16,7 @@ You can find the following fully documented and buildable disassemblies here on 
 * [Elite-A](https://github.com/markmoxon/elite-a-source-code-bbc-micro) on the BBC Micro
 * [Aviator](https://github.com/markmoxon/aviator-source-code-bbc-micro) on the BBC Micro
 * [Revs](https://github.com/markmoxon/revs-source-code-bbc-micro) on the BBC Micro
+* [The Sentinel](https://github.com/markmoxon/the-sentinel-source-code-bbc-micro) on the BBC Micro
 * [Lander](https://github.com/markmoxon/lander-source-code-acorn-archimedes) on the Acorn Archimedes
 
 There are also repositories for my hacks, including:
