@@ -7,6 +7,7 @@ You can find the following fully documented and buildable disassemblies here on 
 * Elite on the following platforms:
   * [BBC Micro (cassette)](https://github.com/markmoxon/elite-source-code-bbc-micro-cassette)
   * [BBC Micro (disc)](https://github.com/markmoxon/elite-source-code-bbc-micro-disc)</a>
+  * [Acornsoft Elite Demonstration Disc](https://github.com/markmoxon/elite-demo-source-code-bbc-micro)</a>
   * [Acorn Electron](https://github.com/markmoxon/elite-source-code-acorn-electron)
   * [BBC Micro with 6502 Second Processor](https://github.com/markmoxon/elite-source-code-6502-second-processor)
   * [Commodore 64](https://github.com/markmoxon/elite-source-code-commodore-64)
