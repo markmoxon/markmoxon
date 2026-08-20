@@ -40,6 +40,7 @@ There are also repositories for my hacks, including:
 * [Teletext Elite](https://github.com/markmoxon/teletext-elite) on the BBC Micro
 * [Elite 3D](https://github.com/markmoxon/elite-3d) on the BBC Micro
 * [Flicker-free Elite on the Commodore 64 and Plus/4](https://github.com/markmoxon/c64-elite-flicker-free)
+* [Voltmace Delta 14B joystick tester](https://github.com/markmoxon/delta-14b-tester)
 
 And if you're interested in how I produce my source code repositories and the accompanying sites, these repositories contain all the details:
 
