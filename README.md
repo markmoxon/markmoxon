@@ -36,7 +36,7 @@ There are also repositories for my hacks, including:
 * Elite over Econet:
   * [Elite over Econet](https://github.com/markmoxon/elite-over-econet)
   * [!EliteNet](https://github.com/markmoxon/elite-over-econet-acorn-archimedes)
-  * [Elite over Econet fileserver menu](https://github.com/markmoxon/elite-over-econet-fileserver-menu)
+  * [Elite over Econet file server menu](https://github.com/markmoxon/elite-over-econet-file-server-menu)
 * [Two-player Elite](https://github.com/markmoxon/elite-two-player-6502-second-processor) on the BBC Micro
 * [Teletext Elite](https://github.com/markmoxon/teletext-elite) on the BBC Micro
 * [Elite 3D](https://github.com/markmoxon/elite-3d) on the BBC Micro
