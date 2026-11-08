@@ -27,6 +27,7 @@ There are also repositories for my hacks, including:
   * [Elite Compendium (BBC Micro)](https://github.com/markmoxon/elite-compendium-bbc-micro)
   * [Elite Compendium (BBC Micro B+)](https://github.com/markmoxon/elite-compendium-bbc-micro-b-plus)
   * [Elite Compendium (Acorn Electron)](https://github.com/markmoxon/elite-compendium-acorn-electron)
+  * [Elite Compendium (Commodore 64)](https://github.com/markmoxon/elite-compendium-commodore-64)
 * Elite Universe Editor:
   * [Elite Universe Editor](https://github.com/markmoxon/elite-universe-editor) on the BBC Micro and Commodore 64
   * [Elite Universe Editor Library](https://github.com/markmoxon/elite-universe-editor-library)
